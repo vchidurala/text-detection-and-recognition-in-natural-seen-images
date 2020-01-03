@@ -1,0 +1,2 @@
+# Text-Detection-and-Recognition-in-Natural-Seen-Images
+Extracting and recognizing text from the natural scene images against the imposed challenges faced due to wide range of variations in text fonts, size and background complexity of the images. An effective feature descriptor is designed to overcome the above stated challenges. The implementation deals with developing a Matlab code that uses different modules for text region detection, image segmentation, text extraction and text recognition.
